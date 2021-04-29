@@ -14,8 +14,8 @@
 			}
 		],
 		"optionalFeatureTypes": {
-			"MV:P": "Maneuver, Pugilist Stunts"
-			"FS:Pu": "Fighting Style, Pugilist"
+			"MV:P": "Maneuver, Pugilist Stunts",
+			"FS:Pu": "Fighting Style, Pugilist",
 			"CP": "Class Passive"
 		},
 		"dateAdded": 0,
