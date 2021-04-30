@@ -6,7 +6,12 @@
 				"abbreviation": "YCPas",
 				"full": "Yesterday's Class Passives and Feat Tiering",
 				"authors": [
-					"Yesterday"
+					"Yesterday",
+					"Benjamin Huffman (Pugilist)",
+					"fanatic66 (Swordmage)"
+				],
+				"convertedBy": [
+					"Yesterday (Marotagem#7406)"
 				],
 				"version": "2.3.0",
 				"url": "https://github.com/yesterdaydnd/ClassPassives/",
