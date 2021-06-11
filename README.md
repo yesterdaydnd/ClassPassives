@@ -15,4 +15,4 @@ properly fine tune their character to whatever they intend to do.
 To help mitigate these issues, and to add a little bit more complexity to character creation, two systems are added through this homebrew: Class Passives and 
 Feat Tiering.
 
-More details: https://homebrewery.naturalcrit.com/edit/6pWU6XN0GQJb
+More details: https://homebrewery.naturalcrit.com/share/r0lKkX8SY5mn
